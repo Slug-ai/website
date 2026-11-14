@@ -4,7 +4,7 @@
     {
       "source": "/:path*",
       "has": [{ "type": "host", "value": "internal.slugllm.com" }],
-      "destination": "https://slug-a61ee9be.mintlify.site/:path*",
+      "destination": "https://app.mintlify.com/slug-a61ee9be/slug-a61ee9be/editor/main",
       "permanent": false
     }
   ],
