@@ -1,7 +1,7 @@
 // Everything the site promises about the API lives here, so a change only happens once.
 export const site = {
   name: 'Slug',
-  email: 'shrey@utexas.edu',
+  email: 'founders@slugllm.com',
   // Placeholder. Replace with the real API domain before this page goes live.
   apiBaseUrl: 'https://api.example.com',
 };
