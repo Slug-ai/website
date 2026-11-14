@@ -1,13 +1,5 @@
 {
   "framework": "astro",
-  "redirects": [
-    {
-      "source": "/(.*)",
-      "has": [{ "type": "host", "value": "internal.slugllm.com" }],
-      "destination": "https://app.mintlify.com/slug-a61ee9be/slug-a61ee9be/editor/main",
-      "permanent": false
-    }
-  ],
   "rewrites": [
     { "source": "/_mintlify/:path*", "destination": "https://slug-a61ee9be-ba286b60.mintlify.site/_mintlify/:path*" },
     { "source": "/api/request", "destination": "https://slug-a61ee9be-ba286b60.mintlify.site/_mintlify/api/request" },
